@@ -1,5 +1,7 @@
 # HW-2_regularization
 
+In the ipynb file, the preprocessing tasks have been done. Please finish the following tasks.
+
 **Task 1:** 
 1. Fit a Linear Regression model using `train_X_prepared` as predictor, and `train_y` as a response.
 2. Then, calculate the testing RMSE using `test_X_prepared` as predictor, and `test_y` as a response.
